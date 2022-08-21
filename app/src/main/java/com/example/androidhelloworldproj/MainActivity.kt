@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
             val textDisplayedP = findViewById<TextView>(R.id.textView3)
             val greetingMsg = findViewById<TextView>(R.id.textView2)
 
-
             textDisplayedG.text = "Hi, ${inputName.text}!"
             textDisplayedP.text ="My name is Angel Xie. I am a first year student at Stony Brook University. I am aspired to work on projects that can create social impacts!"
             inputName.text.clear()

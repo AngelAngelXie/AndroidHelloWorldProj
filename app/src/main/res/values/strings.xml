@@ -3,4 +3,5 @@
     <string name="button_txt">Say Hi</string>
     <string name="prompt">What is your name?</string>
     <string name="welcome_message">Welcome!</string>
+    <string name="submit">Submit</string>
 </resources>
